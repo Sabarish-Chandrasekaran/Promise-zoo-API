@@ -10,6 +10,8 @@ body{
   color:rgb(105, 23, 23);
   text-transform:uppercase;
   font-size:300%;
+  font-family: verdana;
+  font-weight:bold;
 }
 .wild{
   display: flex;
