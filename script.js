@@ -7,7 +7,8 @@ fetch(url)
   .then((data) => {
     let wt = data.weight_max * 0.454;
     let weight = wt.toFixed(2);
-    let input = `<div class="wild-img">
+    let input = `<div class="wild-header">Online Zoo</div>
+    <div class="wild-img">
         <img src="${data.image_link}" alt="" id="img" />
       </div>
       <div class="wild-info">
