@@ -4,6 +4,10 @@ body{
   font-family:'Poppins',sans-serif;
   background-color: rgb(199, 174, 174);
 }
+.wild-header{
+  align-tems:center;
+  margin-top:50px;
+}
 .wild{
   display: flex;
   flex-direction: row;
